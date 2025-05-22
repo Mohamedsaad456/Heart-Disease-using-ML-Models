@@ -32,10 +32,7 @@ This project is a machine learning application that predicts the presence of hea
 ## ⚙️ Models Used
 
 - Logistic Regression  
-- K-Nearest Neighbors (KNN)  
-- Decision Tree  
 - Random Forest  
-- Support Vector Machine (SVM)
 
 ## 📈 Evaluation Metrics
 
